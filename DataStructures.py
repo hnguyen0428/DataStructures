@@ -6,4 +6,6 @@ from OrderedSet import OrderedSet
 from OrderedMap import OrderedMap
 from MultiwayTrie import MultiwayTrie
 from TernaryTrie import TernaryTrie
+from RedBlackTree import RedBlackTree
+from RedBlackTreeMap import RedBlackTreeMap
 from Graph import Graph
